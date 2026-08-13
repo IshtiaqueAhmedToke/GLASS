@@ -14,6 +14,6 @@ Source notebook and reproducibility materials for GLASS, a gated link-aware SGP4
 
 ## Notes
 
-- The notebook was prepared for reproducing the GLASS MILCOM experiment workflow.
+- The notebook was prepared for reproducing the GLASS experiment workflow.
 - Small numerical differences may occur across reruns because the workflow includes model training and external data retrieval.
-- The main outputs include JSON/CSV result summaries and paper-style figures.
+- The main outputs include JSON/CSV result summaries.
